@@ -1,0 +1,258 @@
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .box1
+  {
+    height: 100px;
+    width: 1900px;
+   
+  background-color:skyblue;
+  box-shadow: 0 0 5px skyblue;
+  }
+  
+  #se
+  {
+    margin-top: 25px;
+    padding-left: 20px;
+    border-radius: 50px;
+    height: 25px;
+    width: 230px;
+    border: 1px solid white;
+    border:  no border;
+    box-shadow: 0 0 5px gray;
+  
+  }
+  
+  
+  #bt
+  {
+    border-radius: 30px;
+    height: 30px;
+    width: 70px;
+    background-color:royalblue;
+    border:  1px solid royalblue;
+    color: white;
+    margin-left: 20px;
+    box-shadow: 0 0 5px royalblue;
+  }
+  
+  img
+  {
+    height: 40px;
+    width: 60px;
+  
+  
+  }
+  
+  .main
+  {
+    background-color:white;
+    height: 900px;
+ 
+  }
+  
+  .div1
+  {
+    height: 580px;
+    width: 420px;
+  background-color:white;
+  float:right;
+  margin-top: 40px;
+  margin-right: 1100px;
+  
+  cursor: pointer;
+  box-shadow: 0 0 5px gray;
+  }
+  
+  
+  
+  #p1
+  {
+  padding-left: 120px;
+  color:mediumblue;
+  margin-top: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
+  
+  }
+  
+  #p2
+  {
+    padding-left: 120px;
+    color: green;
+  }
+  
+  #li
+  {
+    margin-left: 180px;
+  color: gray;
+  }
+  
+  #p3,#p4,#p5,#p6
+  {
+    margin-left: 120px;
+    color: grey;
+  }
+  
+  
+  #bg1
+  {
+    margin-left: 320px;
+    margin-top: 1px;
+    color: white;
+    background-color: red;
+    border:none;
+    outline: none;
+    height: 30px;
+    width: 80px;
+    border-radius:5px;
+    
+  }
+  
+  #bg2
+  {
+    margin-left: 320px;
+    margin-top: 1px;
+    color: black;
+    background-color:white;
+    border:none;
+    outline: none;
+    height: 30px;
+    width: 80px;
+    border-radius:5px;
+    
+  }
+  
+  .pro
+  {
+    height: 190px;
+    width: 130px;
+  
+  background-color:lightgray;
+    margin-left: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 5px gray;
+  
+  }
+  
+  #tag
+  {
+    color:white;
+    padding-top: 70px;
+  }
+  
+  .div2
+  {
+    
+    height: 560px;
+    width: 420px;
+  background-color:white;
+  float:right;
+  margin-top: 40px;
+  margin-right: 1100px;
+  
+  cursor: pointer;
+  box-shadow: 0 0 5px gray;
+  }
+  
+  
+  .left1
+  {
+    float: left;
+  
+    height: 1800px;
+    width: 280px;
+    box-shadow: 0 0 5px gray;
+  }
+  
+  
+  #ca
+  {
+    color:gray;
+  }
+  
+  #ele
+  {
+    color:green;
+    margin-right: 100px;
+  }
+  
+  
+  #la
+  {
+   
+   font-size: 15px;
+   margin-right: 90px;
+   color:royalblue;
+   
+  }
+  
+  #mo
+  {
+    color:royalblue;
+   font-size: 15px;
+   margin-right: 90px;
+  }
+  
+  #clo
+  {
+    color:mediumblue;
+    margin-right: 112px;
+  }
+  
+  #hom
+  {
+    color:mediumblue;
+    margin-right: 19px;
+  }
+  
+  #bo
+  {
+    color:gray;
+  }
+  
+  #pr
+  {
+    color:gray;
+  }
+  
+  
+  #b11{
+    border:none;
+    outline: none;
+    height: 23px;
+    width: 140px;
+    border-radius:10px;
+    box-shadow: 0 0 5px gray;
+    
+  }
+  
+  #b12{
+    border:none;
+    outline: none;
+    height: 23px;
+    width: 140px;
+    border-radius:10px;
+    box-shadow: 0 0 5px gray;
+    
+  }
+  
+  img
+  {
+   margin-right: 130px;
+  height: 40px;
+  margin-top: 20px;
+  }
+  
+  #shop
+  {
+    margin-right: 470px;
+    margin-top: 2px;
+    font-family:cursive;
+  }
+      
+  
